@@ -69,4 +69,3 @@ def mainMenu():
 			break
 
 mainMenu()
-input()
